@@ -1,4 +1,4 @@
-# Affine_cipeher_cryptoanalysis
+# Affine_cipher_cryptoanalysis
 Лабораторная работа по криптоанализу афинной биграмной подстановки 
 
 Before running the code change pathes in main() to suitable for your computer :)
